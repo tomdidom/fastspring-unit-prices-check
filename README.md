@@ -11,7 +11,7 @@ This has caused them to undercharge our users in quite a few cases costing us mo
 We wrote this nodejs script to find all these cases. 
 
 ## what does the script do?
-This script will go through all your subscriptions using the FastPSring API and finds all subscriptions where the unit price of the product changes at some point without good reason. It will save the results to the file 'all-subscriptions-with-unit-price-change.csv'. 
+This script will go through all your subscriptions using the FastSpring API and finds all subscriptions where the unit price of the product changes at some point without good reason. It will save the results to the file 'all-subscriptions-with-unit-price-change.csv'. 
 
 There are two groups of issues that stand out.
 
@@ -34,7 +34,7 @@ If you already have an integration with the FastSpring API you should be able to
 If you don't have an integration with the FastSpring API yet, then you can create a username/password pair at https://app.fastspring.com/ under Integrations > API Credentials
 
 ## I want to hear from you?
-You can contact me at tom@tomsplanner.com. I am curious to how others heve been impacted. And, if you run into a problem jsut let me know. I am happy to help you out.
+You can contact me at tom@tomsplanner.com. I am curious to how others have been impacted. And, if you run into a problem just let me know. I am happy to help you out.
 
 
 
