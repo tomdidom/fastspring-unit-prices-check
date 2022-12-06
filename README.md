@@ -1,5 +1,7 @@
 # fastspring-unit-prices-check
 
+NOTE: if you work with upgrades and/or dynamic pricing, this script over reports. I am working on improving it.
+
 ## For who?
 If you have a business, like me, with Tom's Planner, and you sell subscriptions through FastSpring, then this script is for you.
 
